@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.5",
+        "laravel-vite-plugin": "^1.0.1",
+        "sass": "^1.69.7",
+        "vite": "^5.0.11"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.5.1",
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/progress": "^0.2.7",
+        "@inertiajs/vue3": "^1.0.14",
+        "@vitejs/plugin-vue": "^5.0.2",
+        "chart.js": "^4.4.1",
+        "laravel-echo": "^1.15.3",
+        "pinia": "^2.1.7",
+        "primeflex": "^3.3.1",
+        "primeicons": "^6.0.1",
+        "primevue": "^3.46.0",
+        "socket.io-client": "^4.7.3",
+        "vue": "^3.4.6",
+        "vue-i18n": "^9.9.0",
+        "vue-router": "^4.2.5",
+        "vuedraggable": "^4.1.0"
+    }
+}
